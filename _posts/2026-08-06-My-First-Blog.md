@@ -1,1 +1,9 @@
+#### My First Blog
 
+Hello! My name is Kelly Lee, and I am a Biomedical Engineering major set to graduate in 2030!
+
+After graduation, I am looking to apply to medical school, so I am always on the look out for opportunities to learn new things.
+
+I enjoy reading, listening to music, and I don't play many games, but I occasionally play Minecraft.
+
+This is my first year in college, but I think that my favorite subject will be Physics :)
