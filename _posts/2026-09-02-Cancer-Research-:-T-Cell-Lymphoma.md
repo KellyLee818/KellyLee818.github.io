@@ -6,6 +6,10 @@ This is an informational blog covering the origins of T-cell lymphoma and its im
 <img width="389" height="290" alt="image" src="https://github.com/user-attachments/assets/cba28852-b2ea-4202-a6c0-a26bda766ca1" />
 [Image of NK/T-cell Lymphoma](https://www.sciencedirect.com/science/article/pii/S221433001630044X)
 
+![Image of NK/T-cell Lymphoma]([image-url.jpg](https://ars.els-cdn.com/content/image/1-s2.0-S221433001630044X-gr2.jpg)
+  *[Science Direct: Human Pathology: Case Reports](https://www.sciencedirect.com/science/article/pii/S221433001630044X)*
+
+
 Frequencies of this type of cancer occur among the population
 How is this type of cancer typically identified/detected?
 Any known factors that give a person a high risk of getting that specific type of cancer?
