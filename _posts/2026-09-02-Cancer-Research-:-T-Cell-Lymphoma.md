@@ -1,4 +1,4 @@
-# T-Cell Lymphoma
+# Cancer Research: T-Cell Lymphoma
 
 This is an informational blog covering the origins of T-cell lymphoma and its impact on the human body.
 
@@ -7,7 +7,8 @@ This is an informational blog covering the origins of T-cell lymphoma and its im
  
  *[Figure 1: Image of NK/T-cell Lymphoma]*  
  *[Science Direct: Human Pathology: Case Reports](https://www.sciencedirect.com/science/article/pii/S221433001630044X)*
- 
+
+T-cell lymphoma is a form of rare non-Hodgkin lymphoma, originating with the immune system's white blood cells known as lymphocytes. Affecting the lymphatic system, which includes the  
 
 
 
