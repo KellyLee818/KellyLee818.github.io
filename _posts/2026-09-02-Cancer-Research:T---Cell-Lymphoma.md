@@ -25,7 +25,55 @@ Aside from blood tests, patients suspected of having T-cell lymphoma will underg
 
 ### Risk Factors
 
-Any known factors that give a person a high risk of getting that specific type of cancer?
-What stagings are used to describe this cancer? Or subtypes often used? 
+Given that T-cell lymphoma is an extremely rare form of cancer, there are currently no known documented causes. However, scientists have found that there are some factors that may increase an individual's risk for developing T-cell lymphoma. 
+
+**Age:** Individuals 55 and older are more susceptible to developing this form of cancer. Unlike colon or breast cancer, there are no preventative tests that are taken once an individual reaches this age threshold given that T-cell lymphoma is incredibly rare.  
+
+**Gender:** Biological males are 1 to 2 times more likely to develop T-cell lymphoma.   
+
+**Autoimmune Disorders:** Those diagnosed with weakened immune systems or autoimmune disorders like HIV/AIDS are more likely to develop T-cell lymphoma due to chronic inflammation and division of T-cells.   
+
+**Family History:** Individuals with a family history of lymphoma have an elevated risk of developing T-cell lymphoma.   
+
+**Environmental Concerns:** While research has been limited, there is some evidence that suggests long-term exposure to cancer-causing substances can elevate an individual's risk for T-cell lymphoma. 
+
+### Staging T-Cell Lymphoma
+
+Depending on the form of lymphoma an individual has, T-cell lymphoma can be staged by the following categories:
+
+**_Nodal and Peripheral T-Cell Lymphomas_**
+
+<img width="481" height="637" alt="image" src="https://github.com/user-attachments/assets/b66567ae-265a-4737-ae0b-ccfc7ad658c0" />
+
+ *[Figure 3: Peripheral T-Cell Lymphoma]*  
+ *[Lymphoma Australia: Peripheral T-cell Lymphoma (PTCL)](https://www.lymphoma.org.au/types-of-lymphoma/non-hodgkin-lymphoma/lymphoma-t-cell/peripheral-t-cell-lymphoma-ptcl/)*
+
+This form of T-cell lymphoma begins in the lymph nodes.
+
+**Stage I:** Lymphoma is found in one organ area of the lymphatic system or one area outside of the lymphatic system. This can include organs like the liver, spleen, or tonsils.
+
+**Stage II:** Lymphoma is located on two or more lymph nodes groups located on the same side of the body.
+
+**Stage III:** Lymphoma is located in lymph node groups found on both sides of the body. 
+
+**Stage IV:** Lymphoma has metastasized to at least one organ outside of the lymphatic system. 
+
+**_Cutaneous T-Cell Lymphoma_**
+
+<img width="800" height="446" alt="image" src="https://github.com/user-attachments/assets/be7fcb2a-cd17-4ab5-9cd9-01c01da2d393" />
+
+ *[Figure 4: Image of Mycosis Fungoides]*  
+ *[Cleveland Clinic: Mycosis Fungoides](https://my.clevelandclinic.org/health/diseases/21827-mycosis-fungoides)*
+
+This form of T-cell lymphoma originates in the skin.
+
+**Stages I and II:** Lymphoma is found on patches of the skin with minimal to no lymphadenopathy.
+
+**Stages III and IV:** Lymphoma has spread to large areas of skin and begins to form tumors, affecting major organs within the body. 
+
+### Treatments
+
+
+
 What are the current available treatments for this cancer?
 What is the average life expectancy for the patient?
