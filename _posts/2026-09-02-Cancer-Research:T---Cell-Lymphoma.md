@@ -73,7 +73,18 @@ This form of T-cell lymphoma originates in the skin.
 
 ### Treatments
 
+**Chemotherapy:** As common with other forms of cancer, T-cell lymphoma can be treated with courses of chemical drugs that can either kill or stop the division of lymphocytes. 
 
+**Immunotherapy:** Unlike chemotherapy, immunotherapy trains the immune system to identify and attack the cancerous lymphocytes. This is done through the creation of monoclonal antibodies, which are lab-made proteins that will attach to affected lymphocytes as markers of identification for the immune system to attack. 
 
-What are the current available treatments for this cancer?
+**Radiation Therapy:** High energy beams are used in radiation therapy to specifically target the mutated lymphocytes, thus causing them to stop growing and die.
+
+**Stem Cell Transplant:** Either autologous transplants (a patient's own stem cells) or allogenic transplants (stem cells donated by a healthy donor) will be conducted to replace bone marrow that has been damaged or destroyed by the lymphoma.
+
+### Life Expectancy
+
+In order to determine an individual's life expectancy after being diagnosed with T-cell lymphoma, health care professionals accumulate a patient's health information and score them from a range of 0 to 4. This score is deduced based off a patient's age, LDH levels, whether or not the cancer has metastasized, and the stage of lymphoma. The higher the score, the lower the individual's survival rate.
+
+Typically, however, 66.9% of individuals diagnosed with T-cell lymphoma live 5 years post-diagnosis. For cutaneous T-cell lymphoma, which is comparatively less aggressive than peripheral T-cell lymphoma, individuals have a 10-year survival rate of over 90% in the early stages. This is higher than the 30%-40% survival rate of those diagnosed with peripheral T-cell lymphoma and the 30%-35% survival rate of those diagnosed with angioimmunoblastic T-cell lymphoma.
+
 What is the average life expectancy for the patient?
