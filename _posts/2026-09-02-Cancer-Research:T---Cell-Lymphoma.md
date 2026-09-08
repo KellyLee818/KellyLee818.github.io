@@ -87,4 +87,3 @@ In order to determine an individual's life expectancy after being diagnosed with
 
 Typically, however, 66.9% of individuals diagnosed with T-cell lymphoma live 5 years post-diagnosis. For cutaneous T-cell lymphoma, which is comparatively less aggressive than peripheral T-cell lymphoma, individuals have a 10-year survival rate of over 90% in the early stages. This is higher than the 30%-40% survival rate of those diagnosed with peripheral T-cell lymphoma and the 30%-35% survival rate of those diagnosed with angioimmunoblastic T-cell lymphoma.
 
-What is the average life expectancy for the patient?
