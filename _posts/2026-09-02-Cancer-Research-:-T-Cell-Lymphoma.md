@@ -1,5 +1,3 @@
-<img width="1495" height="1574" alt="image" src="https://github.com/user-attachments/assets/bda41e0c-34fa-494d-8aa9-0021b7346ff6" /># Cancer Research: T-Cell Lymphoma
-
 This is an informational blog covering the origins of T-cell lymphoma and its impact on the human body.
 
 ## What is T-Cell Lymphoma and Who Does it Affect?
@@ -13,6 +11,11 @@ T-cell lymphoma is a form of rare non-Hodgkin lymphoma, originating from white b
 As found by the National Institute of Health, men are roughly 1.2 to 2 times more likely to be diagnosed with T-cell lymphoma compared to women, depending on the form of cancer. While most cases occur in individuals over the age of 55, the mean age of diagnosis is 57.1 years. 
 
 ## How is T-Cell Lymphoma Detected?
+
+<img width="389" height="290" alt="image" src="https://github.com/user-attachments/assets/bda41e0c-34fa-494d-8aa9-0021b7346ff6" />
+
+ *[Figure 2: Symptoms of T-cell Lymphoma]*  
+ *[Nature: Oncogenesis: New preclinical models for angioimmunoblastic T-cell lymphoma: filling the GAP](https://www.sciencedirect.com/science/article/pii/S221433001630044X)*
 
 Depending on where the cancer originates, many of the common symptoms of T-cell lymphoma include night sweats, abdominal pain, chest pain, bone pain, persistent fatigue, swollen lymph nodes in the neck, armpits, or groin, and unexplained fever or weight loss. 
 
