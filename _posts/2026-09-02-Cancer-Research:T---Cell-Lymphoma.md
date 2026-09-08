@@ -10,18 +10,21 @@ T-cell lymphoma is a form of rare non-Hodgkin lymphoma, originating from white b
 
 As found by the National Institute of Health, men are roughly 1.2 to 2 times more likely to be diagnosed with T-cell lymphoma compared to women, depending on the form of cancer. While most cases occur in individuals over the age of 55, the mean age of diagnosis is 57.1 years. 
 
-## How is T-Cell Lymphoma Detected?
+### How is T-Cell Lymphoma Detected?
 
-<img width="389" height="290" alt="image" src="https://github.com/user-attachments/assets/bda41e0c-34fa-494d-8aa9-0021b7346ff6" />
+<img width="389" height="400" alt="image" src="https://github.com/user-attachments/assets/bda41e0c-34fa-494d-8aa9-0021b7346ff6" />
 
  *[Figure 2: Symptoms of T-cell Lymphoma]*  
  *[Nature: Oncogenesis: New preclinical models for angioimmunoblastic T-cell lymphoma: filling the GAP](https://www.sciencedirect.com/science/article/pii/S221433001630044X)*
 
 Depending on where the cancer originates, many of the common symptoms of T-cell lymphoma include night sweats, abdominal pain, chest pain, bone pain, persistent fatigue, swollen lymph nodes in the neck, armpits, or groin, and unexplained fever or weight loss. 
 
-From these symptoms, a physical exam is then conducted of a patient to check for swollen lymph nodes and hepatosplenomegaly (an enlarged spleen or liver). Afterwards, a patient will undergo blood tests to measure for levels of lactate dehydrogenase. This is an enzyme commonly found in bodily tissue, and if high levels are found in a patient's blood, there is an indication of tissue damage. Tissue damage is a common side effect of T-cell lymphoma as  
+From these symptoms, a physical exam is then conducted of a patient to check for swollen lymph nodes and hepatosplenomegaly (an enlarged spleen or liver). Afterwards, a patient will undergo blood tests to measure for levels of lactate dehydrogenase. This is an enzyme commonly found in bodily tissue, and if high levels are found in a patient's blood, there is an indication of tissue damage. Tissue damage is a common side effect of T-cell lymphoma as malignant lymphocytes typically accumulate in the barrier tissue of the skin, resulting in chronic skin inflammation. 
 
-How is this type of cancer typically identified/detected?
+Aside from blood tests, patients suspected of having T-cell lymphoma will undergo imaging tests to identify where the cancer is located and whether or not it has metastasized within the body. To fully confirm a patient's cancer status, an oncologist will also take a biopsy of the patient's tissue, which will then be sent to a lab for further testing.
+
+### Risk Factors
+
 Any known factors that give a person a high risk of getting that specific type of cancer?
 What stagings are used to describe this cancer? Or subtypes often used? 
 What are the current available treatments for this cancer?
