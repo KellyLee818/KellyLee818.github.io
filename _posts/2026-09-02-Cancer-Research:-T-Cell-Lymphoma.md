@@ -6,7 +6,7 @@ This is an informational blog covering the origins of T-cell lymphoma and its im
  *[Figure 1: Image of NK/T-cell Lymphoma]*  
  *[Science Direct: Human Pathology: Case Reports](https://www.sciencedirect.com/science/article/pii/S221433001630044X)*
 
-T-cell lymphoma is a form of rare non-Hodgkin lymphoma, originating from white blood cells within the immune system known as lymphocytes. Affecting the lymphatic system, which includes bone marrow, the thymus, lymph nodes, spleen, tonsils, adenoids, and lymphoid tissue, t-cell lymphoma composes less than 15% of non-Hodgkin lymphomas in the U.S. For comparison, it has been found that for every 1,000 cancer diagnoses in the U.S., around 40 cases are found to be lymphomas, with 4-6 of those cases being T-cell lymphomas.
+T-cell lymphoma is a form of rare non-Hodgkin lymphoma, originating from white blood cells within the immune system known as lymphocytes. Affecting the lymphatic system, which includes bone marrow, the thymus, lymph nodes, spleen, tonsils, adenoids, and lymphoid tissue, T-cell lymphoma composes less than 15% of non-Hodgkin lymphomas in the U.S. For comparison, it has been found that for every 1,000 cancer diagnoses in the U.S., around 40 cases are found to be lymphomas, with 4-6 of those cases being T-cell lymphomas.
 
 As found by the National Institute of Health, men are roughly 1.2 to 2 times more likely to be diagnosed with T-cell lymphoma compared to women, depending on the form of cancer. While most cases occur in individuals over the age of 55, the mean age of diagnosis is 57.1 years. 
 
