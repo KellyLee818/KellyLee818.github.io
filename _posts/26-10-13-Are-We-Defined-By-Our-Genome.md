@@ -1,5 +1,5 @@
 ## Are We Defined By Our Genome?
-<img width="2000" height="1372" alt="DOE-HGP-poster" src="https://github.com/user-attachments/assets/6452b10e-f8c5-456e-b5b6-672f0edbcead" />
+<img width="500" height="350" alt="DOE-HGP-poster" src="https://github.com/user-attachments/assets/6452b10e-f8c5-456e-b5b6-672f0edbcead" />
 
  *[Image of Doe Contribution to Sequencing the Human Genome]*  
  [JGI@25: The Human Genome Project, or the JGI’s Origin Story](https://www.sciencedirect.com/science/article/pii/S221433001630044X](https://jgi.doe.gov/user-science/science-stories/jgi25-human-genome-project-or-jgis-origin-story))
